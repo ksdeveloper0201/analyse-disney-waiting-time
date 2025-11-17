@@ -7,8 +7,16 @@ import logging
 from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from datetime import datetime
 from selenium.webdriver.chrome.options import Options # オプションを使うために必要
+from selenium.common.exceptions import NoSuchElementException
+import time
+from datetime import datetime, timedelta
+
+interval_minutes = 5  # 通常の待機時間（分）
+
+now = datetime.now()
+start_hour = 9
+end_hour = 21
 
 
 # ログ設定
@@ -56,12 +64,12 @@ class DisneyWaitTimeScraper:
         実際には以下のいずれかの方法でデータを取得してください:
         
         1. 公式アプリのAPIを調査（リバースエンジニアリングは規約違反の可能性あり）
-        2. themeparks.wiki API などのサードパーティサービスを利用
+        2. wiki API などのサードパーティサービスを利用
         3. 公式ウェブサイトのHTMLをパース（構造変更に注意）
         """
         
         try:
-            # 方法1: themeparks.wiki API を使用する例
+            # 方法1: wiki API を使用する例
             # 無料で使用できるAPIサービス
             url = 'https://www.tokyodisneyresort.jp/tdl/attraction.html'
 
@@ -93,12 +101,13 @@ class DisneyWaitTimeScraper:
                 driver.quit()
                 return self._parse_attraction_data(data, is_all_attraction)
             # return self._parse_themeparks_data(data)
-            
-        except requests.exceptions.RequestException as e:
-            logging.error(f"データ取得エラー: {e}")
+
+            print("要素が見つかりました:", elem.text)
+        except NoSuchElementException:
+            logging.error("要素が見つかりませんでした")
             return []
-        except json.JSONDecodeError as e:
-            logging.error(f"JSON解析エラー: {e}")
+        except Exception as e:
+            logging.error(f"エラーが発生しました: {e}")
             return []
     
     def _parse_attraction_data(self, data, is_all_attraction):
@@ -154,8 +163,23 @@ class DisneyWaitTimeScraper:
                     logging.warning("データが取得できませんでした")
                 
                 # 指定時間待機
-                time.sleep(interval_minutes * 60)
-                
+                # time.sleep(10)
+                if start_hour <= now.hour < end_hour:
+                    # 9時〜21時の間なら通常の待機
+                    time.sleep(interval_minutes * 60)
+                else:
+                    # それ以外なら次の9時まで待機
+                    # 今日の9時を基準にする
+                    next_start = now.replace(hour=start_hour, minute=0, second=0, microsecond=0)
+
+                    if now.hour >= end_hour:
+                        # 21時以降なら翌日の9時
+                        next_start += timedelta(days=1)
+
+                    # 待機秒数を計算
+                    wait_seconds = (next_start - now).total_seconds()
+                    print(f"次の9時まで {wait_seconds/3600:.2f} 時間待機します")
+                    time.sleep(wait_seconds)                
         except KeyboardInterrupt:
             logging.info("\nスクレイピングを停止しました")
         except Exception as e:

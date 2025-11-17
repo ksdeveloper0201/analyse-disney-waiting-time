@@ -47,3 +47,84 @@
 2025-11-17 19:09:07,508 - INFO - 次回取得: 5分後
 2025-11-17 19:10:23,069 - INFO - 
 スクレイピングを停止しました
+2025-11-17 20:00:16,618 - INFO - スクレイピング開始（5分間隔）
+2025-11-17 20:00:16,618 - INFO - 停止するには Ctrl+C を押してください
+2025-11-17 20:00:16,618 - INFO - データ取得中...
+2025-11-17 20:00:27,780 - INFO - 1件のデータを保存しました
+2025-11-17 20:00:27,780 - INFO - 次回取得: 5分後
+2025-11-17 20:05:27,794 - INFO - データ取得中...
+2025-11-17 20:05:35,342 - INFO - 1件のデータを保存しました
+2025-11-17 20:05:35,343 - INFO - 次回取得: 5分後
+2025-11-17 20:11:47,044 - INFO - データ取得中...
+2025-11-17 20:11:55,089 - INFO - 1件のデータを保存しました
+2025-11-17 20:11:55,090 - INFO - 次回取得: 5分後
+2025-11-17 20:43:24,799 - INFO - 
+スクレイピングを停止しました
+2025-11-17 20:43:27,824 - INFO - スクレイピング開始（5分間隔）
+2025-11-17 20:43:27,824 - INFO - 停止するには Ctrl+C を押してください
+2025-11-17 20:43:27,824 - INFO - データ取得中...
+2025-11-17 20:43:37,297 - ERROR - 予期しないエラー: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@class, 'realtimeInformation')]//span[contains(@class, 'time')]"}
+  (Session info: chrome=142.0.7444.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+0   chromedriver                        0x0000000101237aa4 cxxbridge1$str$ptr + 2943380
+1   chromedriver                        0x000000010122f760 cxxbridge1$str$ptr + 2909776
+2   chromedriver                        0x0000000100d462bc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x0000000100d8d8ac _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000100d83524 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 324500
+5   chromedriver                        0x0000000100dced78 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633832
+6   chromedriver                        0x0000000100d81f10 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+7   chromedriver                        0x00000001011f9b98 cxxbridge1$str$ptr + 2689672
+8   chromedriver                        0x00000001011fd3ac cxxbridge1$str$ptr + 2704028
+9   chromedriver                        0x00000001011daa08 cxxbridge1$str$ptr + 2562296
+10  chromedriver                        0x00000001011fdc84 cxxbridge1$str$ptr + 2706292
+11  chromedriver                        0x00000001011cc304 cxxbridge1$str$ptr + 2503156
+12  chromedriver                        0x000000010121dd58 cxxbridge1$str$ptr + 2837576
+13  chromedriver                        0x000000010121dedc cxxbridge1$str$ptr + 2837964
+14  chromedriver                        0x000000010122f3b0 cxxbridge1$str$ptr + 2908832
+15  libsystem_pthread.dylib             0x00000001866df2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x00000001866da0fc thread_start + 8
+
+2025-11-18 05:55:47,343 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 05:55:47,343 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 05:55:47,343 - INFO - データ取得中...
+2025-11-18 05:56:34,567 - ERROR - 予期しないエラー: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@class, 'realtimeInformation')]//span[contains(@class, 'time')]"}
+  (Session info: chrome=142.0.7444.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+0   chromedriver                        0x0000000103507aa4 cxxbridge1$str$ptr + 2943380
+1   chromedriver                        0x00000001034ff760 cxxbridge1$str$ptr + 2909776
+2   chromedriver                        0x00000001030162bc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x000000010305d8ac _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000103053524 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 324500
+5   chromedriver                        0x000000010309ed78 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633832
+6   chromedriver                        0x0000000103051f10 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+7   chromedriver                        0x00000001034c9b98 cxxbridge1$str$ptr + 2689672
+8   chromedriver                        0x00000001034cd3ac cxxbridge1$str$ptr + 2704028
+9   chromedriver                        0x00000001034aaa08 cxxbridge1$str$ptr + 2562296
+10  chromedriver                        0x00000001034cdc84 cxxbridge1$str$ptr + 2706292
+11  chromedriver                        0x000000010349c304 cxxbridge1$str$ptr + 2503156
+12  chromedriver                        0x00000001034edd58 cxxbridge1$str$ptr + 2837576
+13  chromedriver                        0x00000001034ededc cxxbridge1$str$ptr + 2837964
+14  chromedriver                        0x00000001034ff3b0 cxxbridge1$str$ptr + 2908832
+15  libsystem_pthread.dylib             0x00000001866df2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x00000001866da0fc thread_start + 8
+
+2025-11-18 06:09:09,621 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 06:09:09,627 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 06:09:09,627 - INFO - データ取得中...
+2025-11-18 06:09:17,964 - ERROR - 要素が見つかりませんでした
+2025-11-18 06:09:18,096 - WARNING - データが取得できませんでした
+2025-11-18 06:09:52,761 - INFO - 
+スクレイピングを停止しました
+2025-11-18 06:10:14,284 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 06:10:14,284 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 06:10:14,284 - INFO - データ取得中...
+2025-11-18 06:10:21,605 - ERROR - 要素が見つかりませんでした
+2025-11-18 06:10:21,727 - WARNING - データが取得できませんでした
+2025-11-18 06:10:26,739 - INFO - データ取得中...
+2025-11-18 06:10:32,182 - ERROR - 要素が見つかりませんでした
+2025-11-18 06:10:32,248 - WARNING - データが取得できませんでした
+2025-11-18 06:10:37,253 - INFO - データ取得中...
+2025-11-18 06:10:41,697 - ERROR - 要素が見つかりませんでした
+2025-11-18 06:10:41,759 - WARNING - データが取得できませんでした
+2025-11-18 06:10:43,480 - INFO - 
+スクレイピングを停止しました
