@@ -128,3 +128,299 @@ Stacktrace:
 2025-11-18 06:10:41,759 - WARNING - データが取得できませんでした
 2025-11-18 06:10:43,480 - INFO - 
 スクレイピングを停止しました
+2025-11-18 19:21:56,977 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:21:56,978 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:21:56,979 - INFO - データ取得中...
+2025-11-18 19:22:09,411 - INFO - 
+スクレイピングを停止しました
+2025-11-18 19:22:25,381 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:22:25,383 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:22:25,383 - INFO - データ取得中...
+2025-11-18 19:22:31,963 - ERROR - 要素が見つかりませんでした
+2025-11-18 19:22:32,142 - WARNING - データが取得できませんでした
+2025-11-18 19:23:35,454 - INFO - 
+スクレイピングを停止しました
+2025-11-18 19:23:46,740 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:23:46,742 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:23:46,742 - INFO - データ取得中...
+2025-11-18 19:27:15,970 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:27:15,971 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:27:15,971 - INFO - データ取得中...
+2025-11-18 19:40:23,082 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:40:23,083 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:40:23,083 - INFO - データ取得中...
+2025-11-18 19:42:09,609 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:42:09,610 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:42:09,611 - INFO - データ取得中...
+2025-11-18 19:43:11,773 - ERROR - エラーが発生しました: 'str' object has no attribute 'text'
+2025-11-18 19:43:12,019 - WARNING - データが取得できませんでした
+2025-11-18 19:43:32,835 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:43:32,836 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:43:32,837 - INFO - データ取得中...
+2025-11-18 19:43:39,247 - ERROR - エラーが発生しました: 'str' object has no attribute 'text'
+2025-11-18 19:43:39,435 - WARNING - データが取得できませんでした
+2025-11-18 19:45:11,148 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:45:11,149 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:45:11,149 - INFO - データ取得中...
+2025-11-18 19:45:18,148 - ERROR - エラーが発生しました: 'dict' object has no attribute 'add'
+2025-11-18 19:45:18,280 - WARNING - データが取得できませんでした
+2025-11-18 19:46:19,845 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:46:19,846 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:46:19,847 - INFO - データ取得中...
+2025-11-18 19:54:35,581 - INFO - 
+スクレイピングを停止しました
+2025-11-18 19:54:39,566 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:54:39,567 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:54:39,567 - INFO - データ取得中...
+2025-11-18 19:54:47,320 - WARNING - データが取得できませんでした
+2025-11-18 19:56:10,556 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:56:10,556 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:56:10,556 - INFO - データ取得中...
+2025-11-18 19:56:18,464 - WARNING - データが取得できませんでした
+2025-11-18 19:56:58,515 - INFO - 
+スクレイピングを停止しました
+2025-11-18 19:57:57,333 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:57:57,333 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:57:57,333 - INFO - データ取得中...
+2025-11-18 19:58:04,606 - WARNING - データが取得できませんでした
+2025-11-18 19:58:14,911 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:58:14,912 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:58:14,913 - INFO - データ取得中...
+2025-11-18 19:58:33,588 - WARNING - データが取得できませんでした
+2025-11-18 19:59:37,553 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 19:59:37,553 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 19:59:37,554 - INFO - データ取得中...
+2025-11-18 19:59:45,105 - INFO - CSVファイルを作成: 20251118_all_disney_wait_times
+2025-11-18 19:59:45,106 - ERROR - エラーが発生しました: list indices must be integers or slices, not str
+2025-11-18 19:59:45,322 - WARNING - データが取得できませんでした
+2025-11-18 20:04:45,324 - INFO - データ取得中...
+2025-11-18 20:04:51,437 - ERROR - エラーが発生しました: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=142.0.7444.162)
+Stacktrace:
+0   chromedriver                        0x0000000102592ecc cxxbridge1$str$ptr + 2941512
+1   chromedriver                        0x000000010258ab88 cxxbridge1$str$ptr + 2907908
+2   chromedriver                        0x00000001020a22b0 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74020
+3   chromedriver                        0x000000010207bd08 chromedriver + 146696
+4   chromedriver                        0x0000000102111c1c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 531088
+5   chromedriver                        0x000000010212a8b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 632616
+6   chromedriver                        0x00000001020ddef0 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318820
+7   chromedriver                        0x00000001025560c8 cxxbridge1$str$ptr + 2692164
+8   chromedriver                        0x00000001025598dc cxxbridge1$str$ptr + 2706520
+9   chromedriver                        0x000000010253684c cxxbridge1$str$ptr + 2563016
+10  chromedriver                        0x000000010255a1b4 cxxbridge1$str$ptr + 2708784
+11  chromedriver                        0x00000001025280f4 cxxbridge1$str$ptr + 2503792
+12  chromedriver                        0x0000000102579498 cxxbridge1$str$ptr + 2836500
+13  chromedriver                        0x000000010257961c cxxbridge1$str$ptr + 2836888
+14  chromedriver                        0x000000010258a7d8 cxxbridge1$str$ptr + 2906964
+15  libsystem_pthread.dylib             0x00000001866df2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x00000001866da0fc thread_start + 8
+
+2025-11-18 20:04:51,626 - WARNING - データが取得できませんでした
+2025-11-18 20:05:26,285 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 20:05:26,285 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 20:05:26,286 - INFO - データ取得中...
+2025-11-18 20:05:35,505 - ERROR - エラーが発生しました: 'waiting_time'
+2025-11-18 20:05:35,632 - WARNING - データが取得できませんでした
+2025-11-18 20:06:08,363 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 20:06:08,363 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 20:06:08,363 - INFO - データ取得中...
+2025-11-18 20:06:14,229 - INFO - CSVファイルを作成: 20251118_all_disney_wait_times
+2025-11-18 20:06:14,230 - ERROR - エラーが発生しました: 'waiting_time'
+2025-11-18 20:06:14,388 - WARNING - データが取得できませんでした
+2025-11-18 20:06:54,862 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 20:06:54,862 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 20:06:54,862 - INFO - データ取得中...
+2025-11-18 20:07:06,610 - ERROR - CSV保存エラー: '取得日時'
+2025-11-18 20:07:06,611 - INFO - 次回取得: 5分後
+2025-11-18 20:09:19,338 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 20:09:19,345 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 20:09:19,346 - INFO - データ取得中...
+2025-11-18 20:09:54,433 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 20:09:54,434 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 20:09:54,434 - INFO - データ取得中...
+2025-11-18 20:20:40,112 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 20:20:40,112 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 20:20:40,112 - INFO - データ取得中...
+2025-11-18 20:20:49,612 - ERROR - CSV保存エラー: unhashable type: 'dict_keys'
+2025-11-18 20:20:49,613 - INFO - 次回取得: 5分後
+2025-11-18 20:21:36,707 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 20:21:36,709 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 20:21:36,709 - INFO - データ取得中...
+2025-11-18 20:24:11,291 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 20:24:11,292 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 20:24:11,292 - INFO - データ取得中...
+2025-11-18 20:24:20,620 - INFO - 次回取得: 5分後
+2025-11-18 20:29:20,627 - INFO - データ取得中...
+2025-11-18 20:29:31,644 - INFO - 次回取得: 5分後
+2025-11-18 20:34:27,442 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 20:34:27,442 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 20:34:27,442 - INFO - データ取得中...
+2025-11-18 20:34:42,257 - INFO - スクレイピング開始（5分間隔）
+2025-11-18 20:34:42,258 - INFO - 停止するには Ctrl+C を押してください
+2025-11-18 20:34:42,258 - INFO - データ取得中...
+2025-11-18 20:34:49,760 - INFO - CSVファイルを作成: 20251118_all_disney_wait_times
+2025-11-18 20:34:49,845 - ERROR - CSV保存エラー: can only concatenate list (not "dict_values") to list
+2025-11-18 20:34:49,846 - INFO - 次回取得: 5分後
+2025-11-18 20:58:41,774 - INFO - データ取得中...
+2025-11-18 20:58:52,736 - ERROR - CSV保存エラー: can only concatenate list (not "dict_values") to list
+2025-11-18 20:58:52,737 - INFO - 次回取得: 5分後
+2025-11-19 00:00:56,026 - INFO - データ取得中...
+2025-11-19 00:01:02,852 - ERROR - エラーが発生しました: Message: unknown error: cannot determine loading status
+from target frame detached
+  (Session info: chrome=142.0.7444.162)
+Stacktrace:
+0   chromedriver                        0x0000000105456ecc cxxbridge1$str$ptr + 2941512
+1   chromedriver                        0x000000010544eb88 cxxbridge1$str$ptr + 2907908
+2   chromedriver                        0x0000000104f66114 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73608
+3   chromedriver                        0x0000000104f50b1c cxxbridge1$string$len + 3304
+4   chromedriver                        0x0000000104f4e95c chromedriver + 207196
+5   chromedriver                        0x0000000104f4f520 chromedriver + 210208
+6   chromedriver                        0x0000000104f5cb48 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 35260
+7   chromedriver                        0x0000000104f729b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 124968
+8   chromedriver                        0x0000000104f4fb7c chromedriver + 211836
+9   chromedriver                        0x0000000104f72354 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 123336
+10  chromedriver                        0x0000000104fef05c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 634576
+11  chromedriver                        0x0000000104fa1ef0 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318820
+12  chromedriver                        0x000000010541a0c8 cxxbridge1$str$ptr + 2692164
+13  chromedriver                        0x000000010541d8dc cxxbridge1$str$ptr + 2706520
+14  chromedriver                        0x00000001053fa84c cxxbridge1$str$ptr + 2563016
+15  chromedriver                        0x000000010541e1b4 cxxbridge1$str$ptr + 2708784
+16  chromedriver                        0x00000001053ec0f4 cxxbridge1$str$ptr + 2503792
+17  chromedriver                        0x000000010543d498 cxxbridge1$str$ptr + 2836500
+18  chromedriver                        0x000000010543d61c cxxbridge1$str$ptr + 2836888
+19  chromedriver                        0x000000010544e7d8 cxxbridge1$str$ptr + 2906964
+20  libsystem_pthread.dylib             0x00000001866df2e4 _pthread_start + 136
+21  libsystem_pthread.dylib             0x00000001866da0fc thread_start + 8
+
+2025-11-19 00:01:03,017 - WARNING - データが取得できませんでした
+2025-11-19 00:55:25,839 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 00:55:25,839 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 00:55:25,839 - INFO - データ取得中...
+2025-11-19 00:55:34,995 - ERROR - 予期しないエラー: can only concatenate list (not "dict_keys") to list
+2025-11-19 00:56:12,435 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 00:56:12,435 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 00:56:12,435 - INFO - データ取得中...
+2025-11-19 00:56:20,603 - ERROR - 予期しないエラー: can only concatenate list (not "dict_keys") to list
+2025-11-19 00:56:46,714 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 00:56:46,715 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 00:56:46,715 - INFO - データ取得中...
+2025-11-19 00:58:26,646 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 00:58:26,647 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 00:58:26,648 - INFO - データ取得中...
+2025-11-19 01:04:10,138 - ERROR - 予期しないエラー: can only concatenate list (not "dict_keys") to list
+2025-11-19 01:04:16,966 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:04:16,967 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:04:16,967 - INFO - データ取得中...
+2025-11-19 01:04:19,911 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:04:19,912 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:04:19,912 - INFO - データ取得中...
+2025-11-19 01:04:32,256 - INFO - CSVファイルを作成: 20251119_all_disney_wait_times
+2025-11-19 01:04:32,258 - ERROR - CSV保存エラー: can only concatenate list (not "dict_values") to list
+2025-11-19 01:04:32,258 - INFO - 次回取得: 5分後
+2025-11-19 01:05:19,685 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:05:19,686 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:05:19,686 - INFO - データ取得中...
+2025-11-19 01:05:29,793 - ERROR - CSV保存エラー: Type List cannot be instantiated; use list() instead
+2025-11-19 01:05:29,794 - INFO - 次回取得: 5分後
+2025-11-19 01:06:12,460 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:06:12,461 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:06:12,461 - INFO - データ取得中...
+2025-11-19 01:06:21,083 - INFO - 次回取得: 5分後
+2025-11-19 01:10:26,517 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:10:26,517 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:10:26,517 - INFO - データ取得中...
+2025-11-19 01:12:12,499 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:12:12,499 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:12:12,499 - INFO - データ取得中...
+2025-11-19 01:12:35,634 - INFO - 
+スクレイピングを停止しました
+2025-11-19 01:13:53,367 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:13:53,367 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:13:53,367 - INFO - データ取得中...
+2025-11-19 01:15:30,638 - ERROR - エラーが発生しました: Message: timeout: Timed out receiving message from renderer: -0.018
+  (Session info: chrome=142.0.7444.162)
+Stacktrace:
+0   chromedriver                        0x00000001045ceecc cxxbridge1$str$ptr + 2941512
+1   chromedriver                        0x00000001045c6b88 cxxbridge1$str$ptr + 2907908
+2   chromedriver                        0x00000001040de2b0 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74020
+3   chromedriver                        0x00000001040c8dcc cxxbridge1$string$len + 3992
+4   chromedriver                        0x00000001040c8b84 cxxbridge1$string$len + 3408
+5   chromedriver                        0x00000001040c695c chromedriver + 207196
+6   chromedriver                        0x00000001040c7520 chromedriver + 210208
+7   chromedriver                        0x00000001040d4740 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 34228
+8   chromedriver                        0x00000001040ea9b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 124968
+9   chromedriver                        0x00000001040c7b7c chromedriver + 211836
+10  chromedriver                        0x00000001040ea7bc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 124464
+11  chromedriver                        0x0000000104166c9c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633616
+12  chromedriver                        0x0000000104119ef0 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318820
+13  chromedriver                        0x00000001045920c8 cxxbridge1$str$ptr + 2692164
+14  chromedriver                        0x00000001045958dc cxxbridge1$str$ptr + 2706520
+15  chromedriver                        0x000000010457284c cxxbridge1$str$ptr + 2563016
+16  chromedriver                        0x00000001045961b4 cxxbridge1$str$ptr + 2708784
+17  chromedriver                        0x00000001045640f4 cxxbridge1$str$ptr + 2503792
+18  chromedriver                        0x00000001045b5498 cxxbridge1$str$ptr + 2836500
+19  chromedriver                        0x00000001045b561c cxxbridge1$str$ptr + 2836888
+20  chromedriver                        0x00000001045c67d8 cxxbridge1$str$ptr + 2906964
+21  libsystem_pthread.dylib             0x00000001866df2e4 _pthread_start + 136
+22  libsystem_pthread.dylib             0x00000001866da0fc thread_start + 8
+
+2025-11-19 01:15:30,823 - WARNING - データが取得できませんでした
+2025-11-19 01:15:57,425 - ERROR - エラーが発生しました: HTTPConnectionPool(host='localhost', port=51066): Read timed out. (read timeout=120)
+2025-11-19 01:17:26,741 - INFO - 
+スクレイピングを停止しました
+2025-11-19 01:17:34,680 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:17:34,681 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:17:34,681 - INFO - データ取得中...
+2025-11-19 01:17:42,500 - INFO - 次回取得: 5分後
+2025-11-19 01:31:33,839 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:31:33,839 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:31:33,839 - INFO - データ取得中...
+2025-11-19 01:31:42,202 - INFO - 次回取得: 5分後
+2025-11-19 01:40:52,398 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:40:52,399 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:40:52,399 - INFO - データ取得中...
+2025-11-19 01:40:52,399 - ERROR - エラーが発生しました: 'DisneyWaitTimeScraper' object has no attribute 'isLand'
+2025-11-19 01:40:52,399 - ERROR - 予期しないエラー: local variable 'driver' referenced before assignment
+2025-11-19 01:41:26,965 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:41:26,965 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:41:26,966 - INFO - データ取得中...
+2025-11-19 01:41:35,887 - ERROR - 予期しないエラー: expected str, bytes or os.PathLike object, not tuple
+2025-11-19 01:46:01,664 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:46:02,186 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:46:05,456 - INFO - データ取得中...
+2025-11-19 01:46:41,265 - ERROR - 予期しないエラー: expected str, bytes or os.PathLike object, not tuple
+2025-11-19 01:47:24,210 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:47:24,211 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:47:24,211 - INFO - データ取得中...
+2025-11-19 01:48:17,135 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:48:17,136 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:48:17,136 - INFO - データ取得中...
+2025-11-19 01:48:26,489 - ERROR - 予期しないエラー: expected str, bytes or os.PathLike object, not tuple
+2025-11-19 01:48:45,377 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:48:45,377 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:48:45,377 - INFO - データ取得中...
+2025-11-19 01:48:53,495 - ERROR - 予期しないエラー: expected str, bytes or os.PathLike object, not tuple
+2025-11-19 01:49:02,359 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:49:02,361 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:49:02,361 - INFO - データ取得中...
+2025-11-19 01:50:42,606 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:50:42,607 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:50:42,608 - INFO - データ取得中...
+2025-11-19 01:52:56,441 - ERROR - 予期しないエラー: expected str, bytes or os.PathLike object, not tuple
+2025-11-19 01:58:26,736 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 01:58:26,737 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 01:58:26,737 - INFO - データ取得中...
+2025-11-19 01:58:34,358 - INFO - CSVファイルを作成: 20251119_all_tds_wait_times.csv
+2025-11-19 01:58:34,359 - INFO - 次回取得: 5分後
+2025-11-19 02:07:30,796 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 02:07:30,797 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 02:07:30,797 - INFO - データ取得中...
+2025-11-19 02:07:38,738 - INFO - CSVファイルを作成: 20251119_all_tdl_wait_times.csv
+2025-11-19 02:07:38,739 - INFO - 次回取得: 5分後
+2025-11-19 02:08:33,513 - INFO - スクレイピング開始（5分間隔）
+2025-11-19 02:08:33,513 - INFO - 停止するには Ctrl+C を押してください
+2025-11-19 02:08:33,513 - INFO - データ取得中...
+2025-11-19 02:08:42,284 - INFO - 次回取得: 5分後
+2025-11-19 02:09:38,465 - INFO - 
+スクレイピングを停止しました
